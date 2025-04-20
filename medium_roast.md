@@ -30,9 +30,9 @@
 - フィルターは**CAFECアバカフィルター**を使用。HARIO等の一般的なフィルターだと抽出時間に影響する可能性あり
 
 ### 使用するミルと挽き目の目安(中細挽きくらい)
-- Varia VS3: 10.5
-- みるっこ: 5
-- timemore C2: 20
+- [Varia VS3](https://lightupcoffee.com/blogs/magazine/varia-vs3?srsltid=AfmBOoqwLulUhSVfroiJnGQBoJSWw9FiEc3NrKsshSNXkohKfNWi3O7l): 10.5番
+- [みるっこ](https://akatsukiya.com/2019/03/miluco_coffee_mill_dx_r220/): 5番
+- [timemore C2](https://www.thecoffeeshop.jp/magazine/coffeetool/timemore-c2/?srsltid=AfmBOoqviz5mr2spkZTlUuHgA7y1xgL80M41-2HcxemR9ufakN-uS1jA): 20クリック
 
 ### 抽出について
 - 大事なのは前半に出る浅煎りの香りや酸味を活かすことと、後半の雑味や苦味を抑えること
